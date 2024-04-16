@@ -25,6 +25,7 @@
 - Chiara Curgu
 - MariaCassandra
 - [Likith K G](https://github.com/KGLikith)
+- [Leeuwin Ririnui](https://github.com/loubxby)
 - [Abdurahman Mahammedsied](https://github.com/amirasabdu)
 - [Thar Sein Oo](https://github.com/tharseinooMM)
 - [Khin Myat Myat Thein](https://github.com/khinmyat29)
